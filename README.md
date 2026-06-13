@@ -41,6 +41,8 @@ Plugins to integrate Lazygit with popular text editors and IDEs.
   integration of LazyGit directly in a VSCode window
 - [Zed integration](https://github.com/zed-industries/zed/discussions/8485): A
   discussion on how to integrate Lazygit with the Zed editor, 'quick and dirty'.
+- [LazyGit for IntelliJ](https://github.com/ckob/lazygit-intellij-plugin): Native
+  integration of Lazygit into JetBrains / IntelliJ based IDEs.
 
 ## Pagers
 
